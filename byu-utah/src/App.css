@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+
+  html { 
+    background: url('byu-utah-background.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+p{
+  font-size: 84px;
+  color: royalblue;
+  background-color: #fff;
+  opacity: 0.8;
+}
